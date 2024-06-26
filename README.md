@@ -14,5 +14,5 @@ FontEditor is a React application that allows users to dynamically select and ap
 ## Tech Stack
 - React: A JavaScript library for building user interfaces.
 - TypeScript: A strongly typed programming language that builds on JavaScript.
-- CSS: Styling the application for a clean and modern look.
+- CSS: Tailwind CSS styles
 - LocalStorage: Persisting user preferences across sessions.
